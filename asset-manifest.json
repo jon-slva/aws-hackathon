@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49829088.css",
+    "main.js": "/static/js/main.81532767.js",
+    "static/media/Helvetica Neue Bold Italic.ttf": "/static/media/Helvetica Neue Bold Italic.4cd98c8a0df89ddb5141.ttf",
+    "static/media/HelveticaNeue Bold.ttf": "/static/media/HelveticaNeue Bold.61acdee6f288cddccf23.ttf",
+    "static/media/Helvetica Neue Regular.otf": "/static/media/Helvetica Neue Regular.081689ede9bac00ebc91.otf",
+    "static/media/logo.svg": "/static/media/logo.37e28acb8ea70d6b0b1749a1ce64fb8c.svg",
+    "static/media/question.svg": "/static/media/question.ea9097998cb6b4525d55ba1644b55659.svg",
+    "static/media/bell.svg": "/static/media/bell.6919b9a68f580c8e134dda8fd9a949a3.svg",
+    "static/media/settings.svg": "/static/media/settings.6fbc9e8127ccafe90a1bc6cc0a26b3a7.svg",
+    "static/media/squares.svg": "/static/media/squares.94c2e53dc61a22f20acbd7b0dc9b2995.svg",
+    "index.html": "/index.html",
+    "static/media/codesquare.svg": "/static/media/codesquare.0d00c57e8e440464d45b8b6695ca1a3b.svg",
+    "static/media/search.svg": "/static/media/search.6d75cde0718065314cb1ae55d5dfff76.svg",
+    "static/media/downcarrot.svg": "/static/media/downcarrot.f52d669e340b08526655177a31026760.svg",
+    "static/media/greaterthan.svg": "/static/media/greaterthan.c62914ee50bf9abbc5db203d928bdc4e.svg",
+    "main.49829088.css.map": "/static/css/main.49829088.css.map",
+    "main.81532767.js.map": "/static/js/main.81532767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49829088.css",
+    "static/js/main.81532767.js"
+  ]
+}
